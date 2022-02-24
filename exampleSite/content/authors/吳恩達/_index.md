@@ -6,7 +6,7 @@ title: 吳恩達
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Phd Researcher in Financial Economics
 
 # Organizations/Affiliations
 organizations:

@@ -1,5 +1,5 @@
 ---
-title: "Sluggish news reactions: A combinatorial approach for synchronizing stock jumps"
+title: "Decomposing the risk of algorithmic portfolios"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -7,13 +7,12 @@ title: "Sluggish news reactions: A combinatorial approach for synchronizing stoc
 authors:
 - admin
 - Kris Boudt
-- Sébastien Laurent
-- Christopher J. Neely
+- Jürgen Vandenbroucke
 
 # Author notes (optional)
 author_notes: []
 
-date: "2021-11-17T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,7 +28,7 @@ publication_types: ["3"]
 publication: []
 publication_short: []
 
-abstract: Sluggish news reactions manifest as gradual jumps and jump delays. In a panel of high-frequency intraday stock returns, these noisy jumps show up as a "sluggish cojump", i.e. jumps observed at close but distinct points in time. We synchronize these scattered jumps to recover the true common jump component. We apply our methods to investigate the local behavior of Dow 30 stock jumps in a short event window around an ETF jump.
+abstract: Sophisticated algorithmic techniques are complementing human judgement across the fund industry. Whatever the type of rebalancing that occurs in the course of a longer horizon, it probably violates the buy-and-hold assumption. We develop the methodology to predict, dissect and interpret the h-day financial risk in data-driven portfolios. Our risk budgeting approach is based on a flexible risk factor model that accommodates the dynamics in portfolio composition directly within the risk factors. Once these factors are defined, we cast portfolio risk measures, such as value-at-risk, into an additive mean-variance-skewness-kurtosis format. The simulation study confirms the gains in accuracy compared to the widespread square-root-of-time rule. Our main empirical findings rely on the two-decade performance of a portfolio insurance investment strategy. Rather than looking at total portfolio risk, we conclude that it is more informative to look inside the portfolio.
 
 # Summary. An optional shortened abstract.
 summary: []
@@ -74,3 +73,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+The methodology was developed in collaboration with the "R2 Team" at KBC Asset Management. 

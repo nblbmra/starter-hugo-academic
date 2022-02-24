@@ -1,19 +1,18 @@
 ---
-title: "Sluggish news reactions: A combinatorial approach for synchronizing stock jumps"
+title: "The sequential Cauchy combination test: Revisiting the inference of serially correlated test statistics in finance"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Kris Boudt
 - Sébastien Laurent
-- Christopher J. Neely
+- Shuping Shi
 
 # Author notes (optional)
 author_notes: []
 
-date: "2021-11-17T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,7 +28,7 @@ publication_types: ["3"]
 publication: []
 publication_short: []
 
-abstract: Sluggish news reactions manifest as gradual jumps and jump delays. In a panel of high-frequency intraday stock returns, these noisy jumps show up as a "sluggish cojump", i.e. jumps observed at close but distinct points in time. We synchronize these scattered jumps to recover the true common jump component. We apply our methods to investigate the local behavior of Dow 30 stock jumps in a short event window around an ETF jump.
+abstract: Liu and Xie (2020) propose the Cauchy combination test for an overall hypothesis. It combines n individual hypotheses of which the test statistics are characterized by sparsity and arbitrary dependency structures. It is not obvious how statements about individual hypotheses are to be made for this procedure. We unravel the combination test to make statements on the elementary hypotheses. It is based on the principle of closed testing (Marcus, Eric, and Gabriel, 1976) and controls the multiple level alpha. We show the benefits of our approach by revisiting the attenuation bias in the autocorrelated drift-burst z statistics of Christensen, Oomen, and Renò (2020).
 
 # Summary. An optional shortened abstract.
 summary: []
