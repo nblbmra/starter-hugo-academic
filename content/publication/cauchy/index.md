@@ -1,5 +1,5 @@
 ---
-title: "The sequential Cauchy combination test: Revisiting the inference of serially correlated test statistics in finance"
+title: "Sequential Cauchy Combination test for multiple testing problems with financial applications"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -28,7 +28,7 @@ publication_types: ["3"]
 publication: []
 publication_short: []
 
-abstract: Liu and Xie (2020) propose the Cauchy combination test for an overall hypothesis. It combines n individual hypotheses of which the test statistics are characterized by sparsity and arbitrary dependency structures. It is not obvious how statements about individual hypotheses are to be made for this procedure. We unravel the combination test to make statements on the elementary hypotheses. It is based on the principle of closed testing (Marcus, Eric, and Gabriel, 1976) and controls the multiple level alpha. We show the benefits of our approach by revisiting the attenuation bias in the autocorrelated drift-burst z statistics of Christensen, Oomen, and Renò (2020).
+abstract: 
 
 # Summary. An optional shortened abstract.
 summary: []

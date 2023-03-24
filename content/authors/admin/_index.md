@@ -6,37 +6,29 @@ title: Nabil Bouamara
 superuser: true
 
 # Role/position/tagline
-role: PhD Researcher in Financial Econom(etr)ics
+role: Postdoctoral Researcher in Econometrics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: KU Leuven
-  url: https://www.kuleuven.be/english/
-- name: Vrije Universiteit Brussel
-  url: https://www.vub.be/en
+- name: UCLouvain
+  url: https://uclouvain.be/en/index.html
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include financial econometrics, risk management and time series analysis.
 
 # Interests to show in About widget
 interests:
-- Applied Econometrics
-- Empirical Finance
-- Financial Econometrics
-- Risk management
+- financial econometrics
+- multiple hypothesis testing
+- time series econometrics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Applied Economics
+  - course: PhD in Financial Econometrics
     institution: KU Leuven and Vrije Universiteit Brussel
-    year: 2022
-  - course: Msc in Business Analytics
+  - course: Msc in Applied Economics
     institution: Vrije Universiteit Brussel
-    year: 2016
-  - course: Exchange
-    institution: Shanghai Jiao Tong University
-    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -46,8 +38,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # graduation-cap in fai / Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.be/citations?user=mIjo4MwAAAAJ&hl=nl&oi=ao
 - icon: github
   icon_pack: fab
@@ -69,5 +61,3 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Test ...
